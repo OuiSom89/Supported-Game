@@ -1,1 +1,1 @@
-Supported_Games = "Supported-Games :\nnothig"
+Supported_Games = "Supported-Games :\nCobra Kai"
